@@ -1,1 +1,1 @@
-Phần mềm ngân hàng cho phép quản trị ngân hàng quản lý danh sách khách hàng, tạo tài khoản ATM cho từng khách hàng, cho phép chuyển tiền giữa các tài khoản và rút tiền, tra cứu lịch sử giao dịch.
+Banking software allows bank administrators to manage customer lists, create ATM accounts for each customer, allow money transfers between accounts and withdrawals, and look up transaction history.
